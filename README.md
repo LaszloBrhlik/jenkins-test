@@ -1,2 +1,2 @@
 # jenkins-test
-Demo java gradle project with integration tests to check jenkins configurations
+Demo java spring gradle project with integration tests to check jenkins configurations
