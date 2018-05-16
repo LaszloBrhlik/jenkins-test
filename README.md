@@ -1,4 +1,2 @@
 # jenkins-test
-see what happens with jenkins
-test2
-test3
+Demo java gradle project with integration tests to check jenkins configuration
