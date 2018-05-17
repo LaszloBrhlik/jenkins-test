@@ -23,7 +23,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/com/greenfoxacademy/restbackend/controllers/MainRestControllerTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
-              <caret line="22" column="24" lean-forward="false" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+              <caret line="22" column="25" lean-forward="false" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -589,12 +589,12 @@
       <option name="presentableId" value="Default" />
       <updated>1526556342945</updated>
       <workItem from="1526556346161" duration="888000" />
-      <workItem from="1526564600889" duration="622000" />
+      <workItem from="1526564600889" duration="810000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1510000" />
+    <option name="totallyTimeSpent" value="1698000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="24" width="1922" height="1029" extended-state="7" />
@@ -657,7 +657,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/com/greenfoxacademy/restbackend/controllers/MainRestControllerTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
-          <caret line="22" column="24" lean-forward="false" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+          <caret line="22" column="25" lean-forward="false" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
           <folding />
         </state>
       </provider>

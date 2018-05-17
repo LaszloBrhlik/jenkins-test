@@ -20,7 +20,7 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 public class MainRestControllerTest {
 
   @Autowired
-  private MockMvc mockMv;
+  private MockMvc mockMvc;
 
   // doubling
   @Test
